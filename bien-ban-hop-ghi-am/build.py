@@ -26,7 +26,7 @@ TPL = os.path.join(HERE, '_template.docx')
 W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"'
 
 # Trình bày chốt 05/10/2026 — sửa ở đây một lần nếu sau này user chốt thông số khác.
-FONT_SIZE_PT = 12
+FONT_SIZE_PT = 13
 MARGIN_LEFT_CM = 1.19
 MARGIN_RIGHT_CM = 1.19
 MARGIN_TOP_CM = 0.76
